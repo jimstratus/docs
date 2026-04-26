@@ -26,6 +26,8 @@ See the [AI tools guides](/ai-tools) for tool-specific setup.
 
 ## Development
 
+See [DEVELOPMENT.md](DEVELOPMENT.md) for complete local development setup and workflow.
+
 Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
 
 ```
